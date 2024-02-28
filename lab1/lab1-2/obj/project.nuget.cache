@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pyy1voCaDr9CeLW4ucM2gwjT8/ImRrFI5x1v3jnPlXROz99pwEPvw/weY+GPCfTEWW5BS3mftY29HZIyW5tDkg==",
+  "dgSpecHash": "zwnw7adsDrRNo9E+rhRW4GQS+scFCnUGTpljlPfTCeHIdVPGJnjsS2RV0w/x1nrwubpQnK4VxadyWb4vmYYZ2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vldia\\Desktop\\CS\\Lab Works\\lab1\\lab1-2\\lab1-2.csproj",
+  "projectFilePath": "C:\\Users\\vldia\\Documents\\GitHub\\Lab-Works\\lab1\\lab1-2\\lab1-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vldia\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\vldia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vldia\\Desktop\\CS\\Lab Works\\lab1\\lab1-1\\lab1-1.csproj",
+      "projectUniqueName": "C:\\Users\\vldia\\Documents\\GitHub\\Lab-Works\\lab1\\lab1-1\\lab1-1.csproj",
       "projectName": "lab1-1",
-      "projectPath": "C:\\Users\\vldia\\Desktop\\CS\\Lab Works\\lab1\\lab1-1\\lab1-1.csproj",
+      "projectPath": "C:\\Users\\vldia\\Documents\\GitHub\\Lab-Works\\lab1\\lab1-1\\lab1-1.csproj",
       "packagesPath": "C:\\Users\\vldia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vldia\\Desktop\\CS\\Lab Works\\lab1\\lab1-1\\obj\\",
+      "outputPath": "C:\\Users\\vldia\\Documents\\GitHub\\Lab-Works\\lab1\\lab1-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vldia\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,13 +1,13 @@
 ﻿using System.Text;
 class Student
 {
-    public string LastName { get; set; }
-    public string FirstName { get; set; }
-    public string MiddleName { get; set; }
-    public int BirthYear { get; set; }
-    public int Course { get; set; }
-    public string Group { get; set; }
-    public Dictionary<string, int> Grades { get; set; }
+    public string LastName;
+    public string FirstName;
+    public string MiddleName;
+    public int BirthYear;
+    public int Course;
+    public string Group;
+    public Dictionary<string, int> Grades;
 
     public double AverageGrade()
     {
