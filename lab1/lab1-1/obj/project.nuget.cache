@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qkvf7biQ7a1+Kw1AGjbHUSkxTdWQvRSgJV8tkWoCp1qynKllce6DzBn9vP8tSP6hbqkcMYSUY9Ak2337ERZK4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vldia\\Desktop\\CS\\Lab Works\\lab1\\lab1-1\\lab1-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vldia\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vldia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vldia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vldia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
