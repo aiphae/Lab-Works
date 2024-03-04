@@ -13,7 +13,6 @@ lab1/lab1-3/obj
 lab1/lab1-3/lab1-3.csproj
 
 lab1.sln
-*.props
 lab1/lab1-2/obj/rider.project.restore.info
 lab1/lab1-2/obj/rider.project.model.nuget.info
 lab1/lab1-2/obj/project.packagespec.json
