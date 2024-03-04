@@ -1,4 +1,4 @@
-## A repository for containing all the programming assignments at the university.
+### A repository for containing all the programming assignments at the university.
 
 
 `lab-1` : Collections, dictionaries, JSON, LINQ.
