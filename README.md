@@ -5,4 +5,4 @@
 
 `lab-2` : Git, GitHub (no code).
 
-`lab-3` : . . .
+`lab-3` : Classes
