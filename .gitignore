@@ -24,3 +24,7 @@ lab1/lab1-2/obj/lab1-2.csproj.nuget.dgspec.json
 lab1/lab1-2/obj/Debug/net7.0/lab1-2.GeneratedMSBuildEditorConfig.editorconfig
 lab1/lab1-2/obj/Debug/net7.0/lab1-2.assets.cache
 lab1/lab1-2/lab1-2.csproj
+
+lab3/lab3/bin
+lab3/lab3/obj
+lab3/lab3/lab3.csproj
