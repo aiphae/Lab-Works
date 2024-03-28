@@ -7,6 +7,6 @@
 
 `lab-3` : Classes
 
-`lab-4` : . . .
+`lab-4` : Inheritance, polymorphism, operators overloading.
 
-`lab-5` : . . .
+`lab-5` : Interfaces, abstract classes.
