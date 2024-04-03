@@ -2,15 +2,22 @@ namespace lab4_2;
 
 public class Coin
 {
-    private string _code;
-    private readonly double _exchangeRate;
-    private readonly double _growthRate;
+    protected string _code;
+    protected readonly double _exchangeRate;
+    protected readonly double _growthRate;
 
     public Coin(string code, double exchangeRate, double growthRate)
     {
         _code = code;
         _exchangeRate = exchangeRate;
         _growthRate = growthRate;
+    }
+
+    public Coin()
+    {
+        _code = "";
+        _exchangeRate = 0.0;
+        _growthRate = 0.0;
     }
 
     public double ExchangeRate()

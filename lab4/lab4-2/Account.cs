@@ -6,12 +6,12 @@ public class Account
 {
     private Dictionary<string, Wallet> _wallets = new()
     {
-        {"BTC",  new Wallet(new Coin("BTC",  69774.80, 0.1100))},
-        {"ETH",  new Wallet(new Coin("ETH",  3500,     0.0181))},
-        {"SOL",  new Wallet(new Coin("SOL",  196.55,   0.0800))},
-        {"DOGE", new Wallet(new Coin("DOGE", 0.20,     0.4650))},
-        {"TON",  new Wallet(new Coin("TON",  5.33,     0.2300))},
-        {"USDT", new Wallet(new Coin("USDT", 1.00,     0.0000))}
+        {"BTC",  new Wallet(new BTC(69774.80, 0.1100))},
+        {"ETH",  new Wallet(new ETH(3500,     0.0181))},
+        {"SOL",  new Wallet(new SOL(196.55,   0.0800))},
+        {"DOGE", new Wallet(new DOGE(0.20,     0.4650))},
+        {"TON",  new Wallet(new TON(5.33,     0.2300))},
+        {"USDT", new Wallet(new USDT(1.00,     0.0000))}
     };
     private double _totalBalance = 0.0;
     private double _fiat = 0.0;
