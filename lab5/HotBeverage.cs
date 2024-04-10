@@ -4,12 +4,13 @@ public abstract class HotBeverage
 {
     protected string Color;
     
-    public HotBeverage(int volume)
+    protected HotBeverage(int volume)
     {
         Volume = volume;
+        Color = "";
     }
     
-    public int Volume { get; }
+    protected int Volume { get; }
     
     public abstract void Info();
 }
