@@ -1,11 +1,8 @@
 namespace lab5;
 
-public class Coffee : HotBeverage
+public abstract class Coffee : HotBeverage
 {
-    public Coffee(int volume) : base(volume)
-    {
-        Color = "Brown";
-    }
+    protected Coffee(int volume) : base(volume) { }
     
     public override void Info()
     {
